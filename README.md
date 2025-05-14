@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Syed+Ali+Asghar!;Full-stack+MERN+Developer;AI+Student+@+NUST;Open-source+enthusiast&center=true&width=800&height=45&font=Fira%20Code&pause=1000&color=F97316&vCenter=true" />
 </p>
 
+
+
 ## 👋 About Me
 
 🎓 I'm **Syed Ali Asghar**, an Artificial Intelligence undergraduate at **NATIONAL UNIVERSITY OF SCIENCE & TECHNOLOGY (NUST), PAKISTAN**  
@@ -39,10 +41,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SyedAliAsghar-512&show_icons=true&theme=radical&hide=prs" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAliAsghar-512&layout=compact&theme=radical" height="160"/>
-</p>
-
-<p align="center">
- ![GitHub Streak](https://img.shields.io/badge/GitHub%20Streak-🔥%20150%2B%20days-orange?style=for-the-badge)
 </p>
 
 ---
