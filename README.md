@@ -2,11 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Syed+Ali+Asghar!;Full-stack+MERN+Developer;AI+Student+@+NUST;Open-source+enthusiast&center=true&width=800&height=45&font=Fira%20Code&pause=1000&color=F97316&vCenter=true" />
 </p>
-
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=SyedAliAsghar-512)](https://git.io/streak-stats)
-</p>
-
 ---
 
 ## 👋 About Me
@@ -48,7 +43,7 @@
 </p>
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=SyedAliAsghar-512&theme=dark" />
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=SyedAliAsghar-512&theme=radical&hide_border=true&border_radius=5" height="160" />
 </p>
 
 ---
