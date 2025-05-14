@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/65012058/194713433-51991e95-3a4c-4de4-86c9-5424b68d3760.gif" width="250" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=SyedAliAsghar-512)](https://git.io/streak-stats)
 </p>
 
 ---
@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SyedAliAsghar-512&theme=dark" alt="GitHub Streak" /></a>
+ <img src="https://streak-stats.demolab.com?user=SyedAliAsghar-512&theme=dark" />
 </p>
 
 ---
