@@ -1,16 +1,70 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Syed+Ali+Asghar!;Full-stack+MERN+Developer;AI+Student+@+NUST;Open-source+enthusiast&center=true&width=800&height=45&font=Fira%20Code&pause=1000&color=F97316&vCenter=true" />
+</p>
 
-<!--
-**SyedAliAsghar-512/SyedAliAsghar-512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65012058/194713433-51991e95-3a4c-4de4-86c9-5424b68d3760.gif" width="250" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+🎓 I'm **Syed Ali Asghar**, an Artificial Intelligence undergraduate at **NUST**  
+💻 Passionate **Full-stack MERN Developer** with real-time app experience  
+⚡ Focused on **Socket.io**, **Redux Toolkit**, and building scalable systems  
+🔭 I love building tools that solve real-world problems (like **Qalam**, **Exam Seating System**, etc.)  
+📫 Always learning, always building. Let’s connect!
+
+---
+
+## 🧠 Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide=prs" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="160" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+🔹 [**Qalam**](https://github.com/your-username/qalam) – Full-stack system integrating student portals, Puppeteer automation, CR tools  
+🔹 **Exam Seating Plan System** – Batch-aware, non-adjacent logic, desk-wise grid layout, optimized seating  
+🔹 **Dustonic UAE** – SEO-ready React website for a UAE-based cleaning business  
+🔹 **Library Management IoT System** – Blynk-integrated book tracker, real-time updates per user  
+🔹 **Electric Cart Booking App (NUST)** – Ride system prototype using React Native and backend integration
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ali-asghar-ai/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:syedaliasgharai@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
+
+---
+
+> “Build what matters, learn what scales.” – You, probably 😄
+
