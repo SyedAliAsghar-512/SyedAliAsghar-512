@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Syed+Ali+Asghar!;Full-stack+MERN+Developer;AI+Student+@+NUST;Open-source+enthusiast&center=true&width=800&height=45&font=Fira%20Code&pause=1000&color=F97316&vCenter=true" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Syed+Ali+Asghar!;Full-stack+MERN+Developer;React+Native+Developer;AI+Student+@+NUST;Open-source+enthusiast&center=true&width=800&height=45&font=Fira%20Code&pause=1000&color=F97316&vCenter=true" />
 </p>
 
 
