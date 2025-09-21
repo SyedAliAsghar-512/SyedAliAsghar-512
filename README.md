@@ -8,7 +8,7 @@
 ## 👋 About Me
 
 🎓 I'm **Syed Ali Asghar**, an Artificial Intelligence undergraduate at **NATIONAL UNIVERSITY OF SCIENCE & TECHNOLOGY (NUST), PAKISTAN**  
-💻 Passionate **Full-stack MERN Developer** with real-time app experience  
+💻 Passionate **Full-stack MERN Developer & React Native Developer** with real-time app experience  
 ⚡ Focused on **Socket.io**, **Redux Toolkit**, and building scalable systems  
 🔭 I love building tools that solve real-world problems (like **Qalam**, **Exam Seating System**, etc.)  
 📫 Always learning, always building. Let’s connect!
