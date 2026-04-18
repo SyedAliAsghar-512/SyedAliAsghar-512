@@ -22,7 +22,7 @@ My ethos?
 
 ## 🚀 Main Project: StreakSphere
 
-[**StreakSphere**](https://github.com/SyedAliAsghar-512/StreakSphere)  
+[**StreakSphere**](https://streaksphere.app)  
 A secure, modern productivity platform—a showcase of my architecture skills:
 
 - 🌟 **Gamified productivity**: Habit streaks, progress charts, real rewards.
